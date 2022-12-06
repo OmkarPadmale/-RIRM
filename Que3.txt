@@ -1,0 +1,17 @@
+Questions:
+A. What is reverse-i-search in a Linux terminal?
+B. How do you list out the hidden directories using Linux command line tool?
+C. How comfortable are you with using Linux-based OS like Ubuntu, Centos, etc?
+D. Have you ever used Servers to host any web applications in the past? If yes, what
+services did you set up (Like- Apache/Nginx/FTP/SMTP, etc)?
+
+Answers:
+A. reverse-i-search is used to find past commands. Using Ctrl+r with query, we can find the matches. If we need to find next match, we need to press ctrl+r again.
+
+
+B. Below Command is used to list out the hidden directories using Linux command line tool
+"ls -a"
+
+C. I have learned Ubuntu but have not used much
+
+D.Yes I have used SMTP server for my CDAC project for sending mail to the customer after placing order from E-agrimart application.
